@@ -33,7 +33,7 @@ O relatório completo, os códigos comentados, as saídas executadas, os gráfic
 ## Acesso à solução
 
 - [Notebook e relatório completo no Google Colab](https://drive.google.com/drive/folders/1fji14pxnjaO4rJPIXNukBUqzkdZygwz1?usp=drive_link)
-- [Vídeo demonstrativo no YouTube — não listado, até 5 minutos](INSERIR_LINK_VIDEO)
+- [Vídeo demonstrativo no YouTube — não listado, até 5 minutos](https://youtu.be/zDnl_nQmsEU)
 
 ## Dataset e ferramentas
 
