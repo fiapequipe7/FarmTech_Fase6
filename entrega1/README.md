@@ -2,11 +2,27 @@
 
 Projeto acadêmico da FIAP — PBL Fase 6, Entrega 1.
 
-## Integrantes
+Equipe 7
 
-| Nome completo | RM |
-| --- | --- |
-| PREENCHER_NOME_COMPLETO | PREENCHER_RM |
+## 👨‍🎓 Integrantes
+
+* <a href="#">Luiz Henrique Martins Dias</a>
+* <a href="#">Ricardo Colpani Sprocati de Oliveira</a>
+* <a href="#">Walter Corradini Ferreira</a>
+* <a href="#">Fahd Ozelame Al Khaldi</a>
+* <a href="#">André Rohregger Machado</a>
+
+## 👩‍🏫 Professores
+
+### Tutor(a)
+
+* <a href="#">Nicolly Candida Rodrigues de Souza</a>
+
+### Coordenador(a)
+
+* <a href="#">Andre Godoi Chiovato</a>
+
+---
 
 ## Apresentação
 
