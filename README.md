@@ -31,3 +31,10 @@ Equipe 7
 ---
 
 # FarmTech_Fase6
+
+## Entregas
+
+| Entrega | Conteúdo | Documentação |
+| --- | --- | --- |
+| Entrega 1 | Detecção de tomates e cenouras com YOLOv5s customizado (30 × 60 épocas) | [entrega1/README.md](entrega1/README.md) |
+| Entrega 2 | Comparação entre YOLO customizada, YOLO tradicional (COCO) e CNN treinada do zero | [entrega2/README.md](entrega2/README.md) |
