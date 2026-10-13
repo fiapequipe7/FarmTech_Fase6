@@ -29,10 +29,10 @@ Este projeto tem como objetivo principal apresentar a estruturação, o desenvol
 
 ## Notebook Jupyter
 Todo o código fonte, incluindo a análise exploratória, o passo a passo da construção da rede neural e as saídas do modelo, foi desenvolvido e documentado de forma interativa.
-- [Notebook e relatório completo no Google Colab]https://colab.research.google.com/drive/1x3Eq69ghWkZqjW_p5ZKbJJAyHrbh88Qq?usp=sharing
+- [Notebook e relatório completo no Google Colab](https://colab.research.google.com/drive/1x3Eq69ghWkZqjW_p5ZKbJJAyHrbh88Qq?usp=sharing)
 
 
 ## Vídeo Demonstrativo
 Para facilitar o entendimento prático do projeto, preparamos uma apresentação em vídeo detalhando a lógica utilizada no código, a execução do modelo e os resultados obtidos nesta fase.
-- [Vídeo demonstrativo no YouTube — não listado, até 5 minutos]https://www.youtube.com/watch?v=pUVLIWH4puw
+- [Vídeo demonstrativo no YouTube — não listado, até 5 minutos](https://www.youtube.com/watch?v=pUVLIWH4puw)
 
