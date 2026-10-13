@@ -1,4 +1,4 @@
-# FarmTech Solutions
+# FarmTech Solutions - Usando Transfer Learning e Fine Tuning
 
 Projeto acadêmico da FIAP — PBL Fase 6, ir alem.
 
